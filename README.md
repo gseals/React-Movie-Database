@@ -29,7 +29,7 @@ Landing Page
 
 ## How to Run
 
-* Clone down this project from [GitHub](https://github.com/gseals/covid-19-tracker)
+* Clone down this project from [GitHub](https://github.com/gseals/React-Movie-Database)
 * Install [http-server](https://www.npmjs.com/package/http-server) from npm.
 * In your browser, navigate to [https://localhost:3000/](https://localhost:3000/)
 
