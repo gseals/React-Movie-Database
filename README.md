@@ -24,19 +24,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 Landing Page
-![Landing Page](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+![Landing Page](https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Landing%20Page.png)
 
 Incorrect Entry in Search
-![Incorrect Entry in Search](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+![Incorrect Entry in Search](https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Incorrect%20Entry%20in%20Search.png)
 
 Results
-![Results](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+![Results](https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Results.png)
 
 Hover Effect on Individual Card
-![Hover Effect on Individual Card](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+![Hover Effect on Individual Card](https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Hover%20Effect%20on%20Individual%20Card.png)
 
 Opening Individual Selection
-![Opening Individual Selection](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+![Opening Individual Selection](https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Opening%20Individual%20Selection.png)
 
 ## How to Run
 
