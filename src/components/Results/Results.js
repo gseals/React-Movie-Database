@@ -2,7 +2,6 @@ import React from 'react';
 import Result from '../Result/Result';
 
 function Results({ results, openPopup }) {
-  console.log(results);
   return (
     <section className="results">
       {results.map((result) => (

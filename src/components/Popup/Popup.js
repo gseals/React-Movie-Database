@@ -1,7 +1,6 @@
 import React from 'react';
 
 function Popup({ selected, closePopup }) {
-  console.log(selected);
   return (
     <section className="popup">
       <div className="content">
