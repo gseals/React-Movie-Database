@@ -39,7 +39,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Opening Individual Selection](https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Opening%20Individual%20Selection.png)
 
 ### Mobile/Responsive View
-![Mobile View](https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Opening%20Individual%20Selection.png)
+![Mobile View](https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Responsive.png)
 
 ## How to Run
 
