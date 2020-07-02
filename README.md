@@ -19,13 +19,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-* This application pulls from the [OMDB](http://www.omdbapi.com/) API and allows users to search for movies by title. If an incoherent text string is placed in the search box, an alert appears asking for a new string. Results are limited to the top 10 results.
+* This application pulls from the [OMDB](http://www.omdbapi.com/) API and allows users to search for movies by title. If an incoherent text string is placed in the search box, an alert appears asking for a new string. Results are limited to the top 10 results from the database.
 
 ## Screenshots
 
 Landing Page
 ![Landing Page](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
 
+Incorrect Entry in Search
+![Incorrect Entry in Search](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+
+Results
+![Results](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+
+Hover Effect on Individual Card
+![Hover Effect on Individual Card](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+
+Opening Individual Selection
+![Opening Individual Selection](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
 
 ## How to Run
 
