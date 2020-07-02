@@ -33,6 +33,12 @@ h1 span {
   height: 150px;
 }
 
+@media only screen and (max-width: 535px) {
+  h1 span {
+    border-radius: 0px;
+  }
+}
+
 main {
   width: 100%;
   max-width: 960px;
@@ -70,6 +76,7 @@ section {
   display: flex;
   flex-wrap: wrap;
   margin: 0px -15px;
+  justify-content: center;
 }
 
 .results .result {
