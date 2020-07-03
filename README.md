@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo Link
 
-* Coming Soon
+* [Check out the project](https://gseals.github.io/React-Movie-Database/)
 
 ## Technologies Used
 
