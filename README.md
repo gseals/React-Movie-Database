@@ -2,9 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # React Movie Database version 1.0
 
+## Description
+
+* This application pulls from the [OMDB](http://www.omdbapi.com/) API and allows users to search for movies by title. If an incoherent or incorrect text string is placed in the search box, an alert appears asking for a new string. Results are limited to the top 10 results from the database.
+
 ## Demo Link
 
-* [Check out the project](https://gseals.github.io/React-Movie-Database/)
+* [Check out the Project](https://gseals.github.io/React-Movie-Database/)
 
 ## Technologies Used
 
@@ -16,10 +20,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * [ReactDOM 16.13.1](https://www.npmjs.com/package/react-dom)
 * [ReactJS 16.13.1](https://reactjs.org/docs/create-a-new-react-app.html)
 * [React Hooks](https://reactjs.org/docs/hooks-intro.html)
-
-## Description
-
-* This application pulls from the [OMDB](http://www.omdbapi.com/) API and allows users to search for movies by title. If an incoherent or incorrect text string is placed in the search box, an alert appears asking for a new string. Results are limited to the top 10 results from the database.
 
 ## Screenshots
 
